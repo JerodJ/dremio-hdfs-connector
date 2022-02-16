@@ -1,0 +1,24 @@
+{
+  "sourceType": "HDFSARP",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "HDFS Source",
+            "layout": "row",
+            "elements": [
+                {
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
